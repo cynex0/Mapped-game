@@ -466,7 +466,7 @@ class Menu(States):
 
         bg = pygame.image.load("assets/title_bg.png").convert()
         self.bg = pygame.transform.scale(bg, settings['size'])
-        self.title = pygame.font.Font("assets/UI/Font/kenvector_future.ttf", 192).render("SHIZA", True, (218, 165, 32))
+        self.title = pygame.font.Font("assets/UI/Font/kenvector_future.ttf", 192).render("MAPPED", True, (218, 165, 32))
         self.titleRect = self.title.get_rect()
         self.titleRect.center = (settings['size'][0] // 2, settings['size'][1] // 2)
 
@@ -1023,7 +1023,7 @@ if __name__ == '__main__':
     }
     environ['SDL_VIDEO_CENTERED'] = '1'
     pygame.init()
-    pygame.display.set_caption("SHIZA")
+    pygame.display.set_caption("MAPPED")
     pygame.mouse.set_visible(False)
     app = Control(**settings)
     state_dict = {
