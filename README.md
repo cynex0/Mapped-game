@@ -1,5 +1,6 @@
 # Shiza
-A Python-based sidescroller game
+A Python-based sidescroller game. Created by Max Orlov in May 2020.  
+*All used assets were acquired for free through OpenGameArt.org*
 
 ## How to play?
 The game consists of 2 stages: Map traversal and Sidescroller PvE.  
