@@ -1,0 +1,24 @@
+[MAP]
+CONTROLS:
+	Arrows: select nodes
+	Enter: enter selected node
+INFO:
+	On this stage you traverse a randomly generated map. Green node is your start node, light green - explored node, red - level node, yellow - upgrade/heal node.
+	You can only select nodes adjacent to current node. Selected node will have a green outline.
+
+
+[LEVEL]
+CONTROLS:
+	Arrows(left/right): move
+	Arrow up: jump
+	Space: attack
+INFO:
+	This stage is a traditional 2D level with some enemies. Kill all of them to complete.
+
+
+[LOOT]
+CONTROLS:
+	Your mouse, duh
+INFO:
+	On this stage you can upgrade your weapon to deal more damage, heal yourself or abandon the run.
+	
