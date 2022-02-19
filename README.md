@@ -1,4 +1,4 @@
-# Shiza
+# Mapped
 A Python-based sidescroller game. Created by Max Orlov in May 2020.  
 *All used assets were acquired for free through OpenGameArt.org*
 
