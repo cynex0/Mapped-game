@@ -1,4 +1,4 @@
-# Shiza
+# Mapped
 A Python-based sidescroller game. Created by Max Orlov in May 2020.  
 *All used assets were acquired for free through OpenGameArt.org*
 
@@ -13,3 +13,8 @@ The game consists of 2 stages: Map traversal and Sidescroller PvE.
 ### Sidescroller Stage
 The goal is to eliminate all enemies. Doing so will return you to the map and clear this node.  
 **Watch your HP as it is saved between the levels!**
+
+## Features
+- Title and End screens.
+- Randomly generated map.
+- Sidescroller levels with different enemy types.
